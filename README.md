@@ -41,9 +41,9 @@ Simply open the index.html file in your browser
 Or use Live Server extension in VS Code for auto-refresh.
 
 🌐 Live Demo
-If you deployed it using GitHub Pages, add the live link here:
+If you deployed it using GitHub Pages, add the live link here: 
 👉 View Calculator Online
-
+https://myakala-sandeep.github.io/SandeepCalculator/
 📂 Project Structure
 bash
 Copy
