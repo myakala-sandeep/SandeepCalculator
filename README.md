@@ -17,8 +17,8 @@ This project demonstrates basic DOM manipulation, event handling, and CSS stylin
 ---
 
 ## 🖼️ Project Preview
-
-![Calculator Screenshot](screenshot.png)  
+ ![Calculator Screenshot](Screenshot%20(34).png)
+ 
 *(You can add a screenshot of your project and name it `screenshot.png`)*
 
 ---
